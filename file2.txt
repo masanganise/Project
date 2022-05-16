@@ -1,0 +1,2 @@
+This is the second text file.
+I love front-end web development and I use HTML, CSS and Javascript to make this possible.
